@@ -1,0 +1,4 @@
+latitude,longitude,date,rainfall,slope,elevation,soil_moisture,landslide_probability
+34.05,73.15,2026-07-01,82,38,1800,72,0.64
+34.07,73.18,2026-07-02,96,44,2100,79,0.73
+34.09,73.21,2026-07-03,115,51,2300,84,0.86

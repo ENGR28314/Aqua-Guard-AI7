@@ -1,0 +1,4 @@
+latitude,longitude,date,rainfall,drainage_capacity,water_level,flood_depth
+31.5204,74.3587,2026-08-01,74,42,68,0.45
+31.5300,74.3700,2026-08-02,96,38,77,0.71
+31.5400,74.3800,2026-08-03,121,31,89,1.05
