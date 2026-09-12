@@ -1,0 +1,8 @@
+# Add these to the existing AquaGuard requirements.txt
+SQLAlchemy>=2.0,<3
+psycopg2-binary>=2.9,<3
+GeoPandas>=1.0,<2
+Shapely>=2.0,<3
+groq>=0.30,<1
+requests>=2.31,<3
+pycountry>=24.6,<27
