@@ -1,4 +1,21 @@
-streamlit>=1.38
-pandas>=2.0
-numpy>=1.24
-plotly>=5.20
+# Existing AquaGuard requirements
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+
+# PostgreSQL / PostGIS
+SQLAlchemy>=2.0,<3
+psycopg2-binary>=2.9,<3
+
+# Geospatial
+GeoPandas>=1.0,<2
+Shapely>=2.0,<3
+
+# AI
+groq>=0.30,<1
+
+# Data / country utilities
+requests>=2.31,<3
+pycountry>=24.6,<27
